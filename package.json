@@ -1,5 +1,5 @@
 {
-  "name": "@clalarco/vue3-plotly",
+  "name": "@avpavp/vue3-plotly",
   "version": "0.0.0-development",
   "description": "Vue 3 component for plotly.js. Forked from <https://github.com/VanOord/vue3-plotly>",
   "author": "Claudio Alarcon <https://github.com/clalarco>",
@@ -10,9 +10,9 @@
     "plotly"
   ],
   "bugs": {
-    "url": "https://github.com/clalarco/vue3-plotly/issues"
+    "url": "https://github.com/avpavp/vue3-plotly/issues"
   },
-  "homepage": "https://github.com/calarco/vue3-plotly#readme",
+  "homepage": "https://github.com/avpavp/vue3-plotly#readme",
   "workspaces": [
     "lib",
     "demo"
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clalarco/vue3-plotly.git"
+    "url": "https://github.com/avpavp/vue3-plotly.git"
   },
   "dependencies": {
     "vitepress": "^1.0.0-beta.6"
