@@ -1,5 +1,5 @@
 {
-  "name": "@clalarco/vue3-plotly",
+  "name": "@avpavp/vue3-plotly",
   "version": "0.1.3",
   "description": "Vue 3 component for plotly.js, with Typescript support",
   "private": false,
@@ -11,7 +11,7 @@
     "plotly"
   ],
   "bugs": {
-    "url": "https://github.com/clalarco/vue3-plotly/issues"
+    "url": "https://github.com/avpavp/vue3-plotly/issues"
   },
   "homepage": "https://clalarco.github.io/vue3-plotly/",
   "type": "module",
@@ -22,6 +22,7 @@
   "module": "./dist/plotly-vue-ts.es.js",
   "exports": {
     ".": {
+      "types": "./dist/main.d.ts",
       "import": "./dist/plotly-vue-ts.es.js",
       "require": "./dist/plotly-vue-ts.umd.js"
     }
